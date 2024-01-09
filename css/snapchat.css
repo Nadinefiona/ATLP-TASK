@@ -441,3 +441,24 @@ form a{
     color: #000;
 }
 
+@media screen and (max-width: 500px) {
+    body{
+        display: inline;
+    }
+
+    input[type="submit"] {
+        padding: 14px 3rem;
+    }
+
+}
+@media screen and (max-width: 500px) {
+    body{
+        display: inline;
+    }
+  
+    input[type="submit"] {
+        padding: 14px 3rem;
+    }
+  
+  }
+  
